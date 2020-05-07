@@ -8,6 +8,8 @@ Create a database and put its name in the .env file
 
 I am using Mysql DB
 
+Run the following commands :
+
 composer install
 
 php artisan migrate
